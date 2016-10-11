@@ -30,3 +30,10 @@ Good stuff here and more coming.
 * Unix as IDE
   - https://sanctum.geek.nz/arabesque/series/unix-as-ide/
 
+
+
+
+## Video playlists
+
+* LaraconEU 2016
+  - https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN
