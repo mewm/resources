@@ -12,6 +12,8 @@ Good stuff here and more coming.
   - http://fideloper.com/hexagonal-architecture
 * ORM anti-pattern series: Persistence Model VS Domain Model
   - http://www.mehdi-khalili.com/orm-anti-patterns-series/
+* DDD: Entities, Value Objects, Aggregates and RootsPosted
+  - https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/
 
 ### Video
 
